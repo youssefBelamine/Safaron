@@ -35,7 +35,7 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a href="./index2.html" class="nav-link">
+                <a href="{{route('villes.index')}}" class="nav-link">
                   <i class="nav-icon bi bi-circle"></i>
                   <p>Ville</p>
                 </a>
